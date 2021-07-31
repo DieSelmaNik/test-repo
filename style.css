@@ -57,7 +57,7 @@ ul {
 }
 li {
   padding: 31px 31px;
-  display: inline;
+  display: flex;
 }
 h2 {
   font-size: 80px;
