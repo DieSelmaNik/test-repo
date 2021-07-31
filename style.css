@@ -53,11 +53,10 @@ ul {
   letter-spacing: 2px;
   line-height: 50px;
   color: #ffffff;
-  display: flex;
 }
 li {
   padding: 31px 31px;
-  display: flex;
+  display: inline;
 }
 h2 {
   font-size: 80px;
